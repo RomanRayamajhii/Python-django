@@ -1,0 +1,175 @@
+Complete Python Fundamentals Roadmap
+1. Python basics
+- Introduction to Python
+- Installing Python and VS Code
+- Python syntax and indentation
+- Comments
+- Variables
+- Data types
+- Type conversion
+- User input (input())
+- Output (print())
+- Operators
+  - Arithmetic
+  - Comparison
+  - Logical
+  - Assignment
+  - Membership
+  - Identity
+2. Conditional statements
+- if
+- if-else
+- if-elif-else
+- Nested if statements
+- Ternary operators
+- Match-case
+3. Loops
+- for loop
+- while loop
+- range()
+- Nested loops
+- break
+- continue
+- pass
+- Loop with else
+- Iterating through strings and collections
+- List comprehension
+- Nested list comprehension
+4. Python data structures
+List
+- Creating lists
+- Indexing and slicing
+- Adding elements: append(), insert(), extend()
+- Removing elements: remove(), pop(), clear()
+- Sorting and reversing
+- List comprehension
+
+Tuple
+- Creating tuples
+- Indexing and slicing
+- Tuple methods
+- Packing and unpacking
+- Immutable nature
+
+Set
+- Creating sets
+- Adding and removing elements
+- Union
+- Intersection
+- Difference
+- Symmetric difference
+- Set comprehension
+
+Dictionary
+- Key-value pairs
+- Accessing values
+- Adding and updating
+- Removing elements
+- keys(), values(), items()
+- Dictionary comprehension
+- Nested dictionaries
+
+5. Functions
+- Defining functions
+- Calling functions
+- Parameters and arguments
+- Default arguments
+- Keyword arguments
+- Positional arguments
+- *args
+- **kwargs
+- Return statements
+- Scope: local and global
+- Lambda functions
+- Recursive functions
+- Higher-order functions
+6. String manipulation
+- String indexing and slicing
+- String methods
+- String formatting
+- f-strings
+- split() and join()
+- strip()
+- replace()
+- find()
+- String immutability
+- Regular expressions (Regex)
+7. Object-Oriented Programming (OOP)
+This is particularly important for Django and professional backend development.
+- Classes and objects
+- Constructors (__init__)
+- Instance variables
+- Class variables
+- Instance methods
+- Class methods
+- Static methods
+- Encapsulation
+- Inheritance
+- Single and multiple inheritance
+- Multilevel inheritance
+- Polymorphism
+- Method overriding
+- Abstraction
+- Getters and setters
+- Properties (@property)
+- Magic/dunder methods
+- Composition
+8. Exception handling
+- Errors and exceptions
+- try
+- except
+- Multiple exceptions
+- else
+- finally
+- raise
+- Custom exceptions
+9. File handling
+- Opening files
+- Reading files
+- Writing files
+- Appending files
+- with statement
+- Working with CSV
+- Working with JSON
+- File paths and directories
+- os and pathlib
+10. Advanced Python fundamentals
+- Iterators
+- Iterables
+- Generators
+- yield
+- Decorators
+- Closures
+- Context managers
+- Unpacking
+- enumerate()
+- zip()
+- map()
+- filter()
+- sorted()
+- any() and all()
+- Shallow copy vs deep copy
+11. Python modules and packages
+- Importing modules
+- Built-in modules
+- Creating custom modules
+- Creating packages
+- pip
+- Virtual environments (venv)
+- requirements.txt
+- Environment variables
+- __name__ == "__main__"
+12. Additional topics for backend development
+- HTTP fundamentals
+- JSON serialization and deserialization
+- REST API fundamentals
+- Database connectivity
+- SQL basics
+- PostgreSQL integration
+- Python type hints
+- Dataclasses
+- Testing with unittest and pytest
+- Logging
+- Async programming (async, await)
+- Threads and multiprocessing
+- Python memory management basics
